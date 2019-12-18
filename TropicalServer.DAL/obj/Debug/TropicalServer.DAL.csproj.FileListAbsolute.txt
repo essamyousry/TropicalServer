@@ -1,0 +1,19 @@
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer.DAL\bin\Debug\TropicalServer.DAL.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer.DAL\bin\Debug\TropicalServer.DAL.pdb
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer.DAL\obj\Debug\TropicalServer.DAL.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer.DAL\obj\Debug\TropicalServer.DAL.pdb
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer.DAL\bin\Debug\TropicalServer.DAL.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer.DAL\bin\Debug\TropicalServer.DAL.pdb
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer.DAL\obj\Debug\TropicalServer.DAL.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer.DAL\obj\Debug\TropicalServer.DAL.pdb
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer.DAL\bin\Debug\TropicalServer.DAL.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer.DAL\bin\Debug\TropicalServer.DAL.pdb
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer.DAL\obj\Debug\TropicalServer.DAL.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer.DAL\obj\Debug\TropicalServer.DAL.pdb
+C:\Users\essam\Desktop\Training\Day2\Materials and Assignments\Project\TropicalServerApp\TropicalServer.DAL\bin\Debug\TropicalServer.DAL.dll
+C:\Users\essam\Desktop\Training\Day2\Materials and Assignments\Project\TropicalServerApp\TropicalServer.DAL\bin\Debug\TropicalServer.DAL.pdb
+C:\Users\essam\Desktop\Training\Day2\Materials and Assignments\Project\TropicalServerApp\TropicalServer.DAL\obj\Debug\TropicalServer.DAL.dll
+C:\Users\essam\Desktop\Training\Day2\Materials and Assignments\Project\TropicalServerApp\TropicalServer.DAL\obj\Debug\TropicalServer.DAL.pdb

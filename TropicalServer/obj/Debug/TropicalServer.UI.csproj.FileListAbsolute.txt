@@ -1,0 +1,113 @@
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.pdb
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\obj\Debug\TropicalServer.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\obj\Debug\TropicalServer.pdb
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\AjaxControlToolkit.pdb
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.BLL.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.DAL.dll
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.BLL.pdb
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.DAL.pdb
+C:\Users\j007seph\Desktop\TropicalServer\TropicalServer\TropicalServer\bin\itextsharp.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.pdb
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.BLL.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.DAL.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.BLL.pdb
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\AjaxControlToolkit.pdb
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.DAL.pdb
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\obj\Debug\TropicalServer.dll
+C:\Users\j007seph\Desktop\SummitWorks\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\obj\Debug\TropicalServer.pdb
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.pdb
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.BLL.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.DAL.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.BLL.pdb
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\AjaxControlToolkit.pdb
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\TropicalServer.DAL.pdb
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\ar\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\cs\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\de\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\es\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\fr\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\he\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\hi\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\it\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\ja\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\ko\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\nl\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\pt\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\ru\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\obj\Debug\TropicalServer.dll
+D:\Suma\Summitworks\Suma Training\TO TRANSFER\.Net Projects from Chii\Tropical Cheese Project\TropicalServer\TropicalServer\TropicalServer\obj\Debug\TropicalServer.pdb
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\obj\Debug\TropicalServer.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\TropicalServer.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\TropicalServer.pdb
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\AjaxControlToolkit.pdb
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\ar\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\cs\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\de\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\es\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\fr\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\he\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\hi\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\it\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\ja\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\ko\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\nl\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\pt\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\ru\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Suma\Summitworks\Suma Training\3 - Projects\Tropical\ForTraining\TropicalServerApp\TropicalServer\obj\Debug\TropicalServer.pdb
+C:\Users\essam\Desktop\Training\Day2\Materials and Assignments\Project\TropicalServerApp\TropicalServer\bin\TropicalServer.dll.config
+C:\Users\essam\Desktop\Training\Day2\Materials and Assignments\Project\TropicalServerApp\TropicalServer\bin\TropicalServer.dll
+C:\Users\essam\Desktop\Training\Day2\Materials and Assignments\Project\TropicalServerApp\TropicalServer\bin\TropicalServer.pdb
+C:\Users\essam\Desktop\Training\Day2\Materials and Assignments\Project\TropicalServerApp\TropicalServer\bin\AjaxControlToolkit.dll
+C:\Users\essam\Desktop\Training\Day2\Materials and Assignments\Project\TropicalServerApp\TropicalServer\bin\TropicalServer.BLL.dll
+C:\Users\essam\Desktop\Training\Day2\Materials and Assignments\Project\TropicalServerApp\TropicalServer\bin\TropicalServer.DAL.dll
+C:\Users\essam\Desktop\Training\Day2\Materials and Assignments\Project\TropicalServerApp\TropicalServer\bin\TropicalServer.BLL.pdb
+C:\Users\essam\Desktop\Training\Day2\Materials and Assignments\Project\TropicalServerApp\TropicalServer\bin\TropicalServer.DAL.pdb
+C:\Users\essam\Desktop\Training\Day2\Materials and Assignments\Project\TropicalServerApp\TropicalServer\obj\Debug\TropicalServer.UI.csproj.CopyComplete
+C:\Users\essam\Desktop\Training\Day2\Materials and Assignments\Project\TropicalServerApp\TropicalServer\obj\Debug\TropicalServer.dll
+C:\Users\essam\Desktop\Training\Day2\Materials and Assignments\Project\TropicalServerApp\TropicalServer\obj\Debug\TropicalServer.pdb
+C:\Users\essam\Desktop\Training\Day2\Materials and Assignments\Project\TropicalServerApp\TropicalServer\obj\Debug\TropicalServer.UI.csprojAssemblyReference.cache
